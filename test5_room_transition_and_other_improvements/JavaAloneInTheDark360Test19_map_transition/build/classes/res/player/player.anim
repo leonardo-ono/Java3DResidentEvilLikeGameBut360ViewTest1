@@ -1,0 +1,22 @@
+#player animation
+
+id player_animation
+mesh player.obj
+scale 1.10
+texture player.png
+
+#action action_id pc2_file fps start_frame end_frame loop
+action idle idle.pc2 12 0 23 true
+action walking walking.pc2 12 0 12 true
+action running running.pc2 12 0 8 true
+action picking_front picking_front.pc2 24 0 55 true
+action picking_floor picking_floor.pc2 24 0 55 true
+action idle_aim_transition idle_aim_transition.pc2 48 0 9 false
+action shoot shoot.pc2 36 0 15 false
+action dry_fire shoot.pc2 24 0 3 false
+
+#event anim_id frame event_id event_param_0 ... event_param_n
+event walking 3 sound step
+event walking 3 sound step
+
+

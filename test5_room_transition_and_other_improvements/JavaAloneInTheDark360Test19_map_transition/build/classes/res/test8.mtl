@@ -1,0 +1,129 @@
+# Blender MTL File: 'test8.blend'
+# Material Count: 11
+
+newmtl Default_OBJ
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Pillar
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_5_Normal.png
+map_Kd C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_5_Albedo.png
+
+newmtl Tiles_11
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.300000 C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Tiles\\Tiles_11_Normal.png
+map_Kd C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Tiles\\Tiles_11_Albedo.png
+
+newmtl Wall_3.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_3_Normal.png
+map_Kd C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_3_Albedo.png
+
+newmtl Wall_3.003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_3_Normal.png
+map_Kd C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_3_Albedo.png
+
+newmtl Wall_3.004
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_3_Normal.png
+map_Kd C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_3_Albedo.png
+
+newmtl Wall_4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_4_Normal.png
+
+newmtl Wall_6
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_6_Normal.png
+map_Kd C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_6_Albedo.png
+
+newmtl Wall_6.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_6_Normal.png
+map_Kd C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\Tiled\\Walls\\Wall_6_Albedo.png
+
+newmtl WoodFloor
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.580000 C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\FloorWood_normal.png
+map_Kd -s 4.000000 4.000000 4.000000 C:\\Users\\Leo\\AbandonedAsylum\\Assets\\Abandoned_Asylum\\Textures\\FloorWood.png
+
+newmtl raycast
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.005956 0.004103 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

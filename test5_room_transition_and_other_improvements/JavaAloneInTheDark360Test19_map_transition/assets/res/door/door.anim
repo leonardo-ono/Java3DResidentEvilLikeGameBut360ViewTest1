@@ -1,0 +1,13 @@
+#door animation (room transition)
+
+id door_animation
+mesh door.obj
+scale 1.0
+texture door.png
+
+#action action_id pc2_file fps start_frame end_frame loop
+action door door.pc2 20 0 119 false
+
+#event anim_id frame event_id event_param_0 ... event_param_n
+
+
